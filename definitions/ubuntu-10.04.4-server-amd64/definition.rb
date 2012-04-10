@@ -14,7 +14,7 @@ Veewee::Session.declare( {
                            "debconf/priority=critical ",
                            "debconf/frontend=noninteractive ",
                            "debian-installer=en_US ",
-                           "debian-installer/locale=en_US ",
+                           "debian-installer/locale=en_US.UTF-8 ",
                            "debian-installer/framebuffer=false ",
                            "initrd=/install/initrd.gz ",
                            "kbd-chooser/method=us ",
