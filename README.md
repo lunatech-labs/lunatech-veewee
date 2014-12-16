@@ -6,7 +6,7 @@ Lunatech uses veewee to build baseboxes to be used with Vagrant. In this reposit
 Baseboxes
 =========
 
-We currently have one basebox definition, for an Ubuntu 10.04.4 server. We only use Chef, so Puppet installation has been omitted.
+We currently have two basebox definition, for an Ubuntu 10.04.4 server and for an Ubuntu 12.04.1 server. These are both LTS releases. We only use Chef, so Puppet installation has been omitted.
 
 Usage
 =====
